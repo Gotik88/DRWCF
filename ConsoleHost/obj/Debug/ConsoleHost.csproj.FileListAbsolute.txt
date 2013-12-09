@@ -1,0 +1,8 @@
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\ConsoleHost.exe
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\ConsoleHost.pdb
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\DRWcf.dll
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\DRWcf.pdb
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\obj\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\obj\Debug\ConsoleHost.exe
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\obj\Debug\ConsoleHost.pdb

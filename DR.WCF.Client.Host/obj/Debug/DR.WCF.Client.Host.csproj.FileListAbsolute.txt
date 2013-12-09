@@ -1,0 +1,8 @@
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client.Host\bin\Debug\DR.WCF.Client.Host.exe.config
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client.Host\bin\Debug\DR.WCF.Client.Host.exe
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client.Host\bin\Debug\DR.WCF.Client.Host.pdb
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client.Host\bin\Debug\DR.WCF.Proxy.dll
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client.Host\bin\Debug\DR.WCF.Proxy.pdb
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client.Host\obj\Debug\DR.WCF.Client.Host.csprojResolveAssemblyReference.cache
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client.Host\obj\Debug\DR.WCF.Client.Host.exe
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client.Host\obj\Debug\DR.WCF.Client.Host.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DRWcf.Application.Service1" CodeBehind="CustomService.svc.cs" %>

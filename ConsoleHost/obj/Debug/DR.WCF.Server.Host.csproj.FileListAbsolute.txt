@@ -1,0 +1,8 @@
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\DR.WCF.Server.Host.exe.config
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\DR.WCF.Server.Host.exe
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\DR.WCF.Server.Host.pdb
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\obj\Debug\DR.WCF.Server.Host.exe
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\obj\Debug\DR.WCF.Server.Host.pdb
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\DR.WCF.Server.dll
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\bin\Debug\DR.WCF.Server.pdb
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\ConsoleHost\obj\Debug\DR.WCF.Server.Host.csprojResolveAssemblyReference.cache

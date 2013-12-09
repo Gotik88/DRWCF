@@ -1,0 +1,5 @@
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client\bin\Debug\DR.WCF.Client.dll
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client\bin\Debug\DR.WCF.Client.pdb
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client\obj\Debug\DR.WCF.Client.csprojResolveAssemblyReference.cache
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client\obj\Debug\DR.WCF.Client.dll
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Client\obj\Debug\DR.WCF.Client.pdb

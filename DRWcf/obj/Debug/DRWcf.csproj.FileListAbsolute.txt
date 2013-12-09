@@ -1,0 +1,5 @@
+c:\users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf\bin\Debug\DRWcf.dll.config
+c:\users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf\bin\Debug\DRWcf.dll
+c:\users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf\bin\Debug\DRWcf.pdb
+c:\users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf\obj\Debug\DRWcf.dll
+c:\users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf\obj\Debug\DRWcf.pdb

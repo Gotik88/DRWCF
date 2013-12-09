@@ -1,0 +1,5 @@
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf.Application\bin\DRWcf.Application.dll
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf.Application\bin\DRWcf.Application.pdb
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf.Application\obj\Debug\DR.WCF.Server.Application.csprojResolveAssemblyReference.cache
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf.Application\obj\Debug\DRWcf.Application.dll
+c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf.Application\obj\Debug\DRWcf.Application.pdb
