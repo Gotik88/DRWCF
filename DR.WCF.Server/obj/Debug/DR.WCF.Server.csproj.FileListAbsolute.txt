@@ -7,6 +7,5 @@ c:\users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf\obj\Debug\DR
 C:\Projects\DRWCF\DR.WCF.Server\bin\Debug\DR.WCF.Server.dll.config
 C:\Projects\DRWCF\DR.WCF.Server\bin\Debug\DR.WCF.Server.dll
 C:\Projects\DRWCF\DR.WCF.Server\bin\Debug\DR.WCF.Server.pdb
-C:\Projects\DRWCF\DR.WCF.Server\obj\Debug\DR.WCF.Server.csprojResolveAssemblyReference.cache
 C:\Projects\DRWCF\DR.WCF.Server\obj\Debug\DR.WCF.Server.dll
 C:\Projects\DRWCF\DR.WCF.Server\obj\Debug\DR.WCF.Server.pdb

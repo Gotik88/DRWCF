@@ -1,0 +1,5 @@
+C:\Projects\DRWCF\DR.WCF.Service.Duplex\bin\Debug\DR.WCF.Service.Duplex.dll.config
+C:\Projects\DRWCF\DR.WCF.Service.Duplex\bin\Debug\DR.WCF.Service.Duplex.dll
+C:\Projects\DRWCF\DR.WCF.Service.Duplex\bin\Debug\DR.WCF.Service.Duplex.pdb
+C:\Projects\DRWCF\DR.WCF.Service.Duplex\obj\Debug\DR.WCF.Service.Duplex.dll
+C:\Projects\DRWCF\DR.WCF.Service.Duplex\obj\Debug\DR.WCF.Service.Duplex.pdb

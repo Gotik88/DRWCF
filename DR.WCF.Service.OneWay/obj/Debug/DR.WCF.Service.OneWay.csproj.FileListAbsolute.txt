@@ -1,0 +1,5 @@
+C:\Projects\DRWCF\DR.WCF.Service.OneWay\bin\Debug\DR.WCF.Service.OneWay.dll.config
+C:\Projects\DRWCF\DR.WCF.Service.OneWay\bin\Debug\DR.WCF.Service.OneWay.dll
+C:\Projects\DRWCF\DR.WCF.Service.OneWay\bin\Debug\DR.WCF.Service.OneWay.pdb
+C:\Projects\DRWCF\DR.WCF.Service.OneWay\obj\Debug\DR.WCF.Service.OneWay.dll
+C:\Projects\DRWCF\DR.WCF.Service.OneWay\obj\Debug\DR.WCF.Service.OneWay.pdb

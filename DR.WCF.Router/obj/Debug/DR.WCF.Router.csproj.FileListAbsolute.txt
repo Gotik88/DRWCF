@@ -8,3 +8,4 @@ C:\Projects\DRWCF\DR.WCF.Router\bin\Debug\DR.WCF.Router.dll
 C:\Projects\DRWCF\DR.WCF.Router\bin\Debug\DR.WCF.Router.pdb
 C:\Projects\DRWCF\DR.WCF.Router\obj\Debug\DR.WCF.Router.dll
 C:\Projects\DRWCF\DR.WCF.Router\obj\Debug\DR.WCF.Router.pdb
+C:\Projects\DRWCF\DR.WCF.Router\obj\Debug\DR.WCF.Router.csprojResolveAssemblyReference.cache

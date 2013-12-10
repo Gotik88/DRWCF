@@ -14,3 +14,7 @@ C:\Projects\DRWCF\DR.WCF.Client.Host\obj\Debug\DR.WCF.Client.Host.exe
 C:\Projects\DRWCF\DR.WCF.Client.Host\obj\Debug\DR.WCF.Client.Host.pdb
 C:\Projects\DRWCF\DR.WCF.Client.Host\bin\Debug\DR.WCF.Proxy.dll
 C:\Projects\DRWCF\DR.WCF.Client.Host\bin\Debug\DR.WCF.Proxy.pdb
+C:\Projects\DRWCF\DR.WCF.Client.Host\bin\Debug\DR.WCF.Service.Duplex.dll
+C:\Projects\DRWCF\DR.WCF.Client.Host\bin\Debug\DR.WCF.Service.OneWay.dll
+C:\Projects\DRWCF\DR.WCF.Client.Host\bin\Debug\DR.WCF.Service.Duplex.pdb
+C:\Projects\DRWCF\DR.WCF.Client.Host\bin\Debug\DR.WCF.Service.OneWay.pdb

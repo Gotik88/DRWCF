@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MyClientCallback.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service References\Config\Reference.cs">
@@ -71,6 +72,14 @@
     <ProjectReference Include="..\DR.WCF.Client.Proxy\DR.WCF.Client.Proxy.csproj">
       <Project>{43e6277d-183d-4900-80d0-4ae82c9e1812}</Project>
       <Name>DR.WCF.Client.Proxy</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DR.WCF.Service.Duplex\DR.WCF.Service.Duplex.csproj">
+      <Project>{fba38b0a-69b3-4473-ad12-4ae1f037af0e}</Project>
+      <Name>DR.WCF.Service.Duplex</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DR.WCF.Service.OneWay\DR.WCF.Service.OneWay.csproj">
+      <Project>{869d7994-1505-42f1-814e-ece170249854}</Project>
+      <Name>DR.WCF.Service.OneWay</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
