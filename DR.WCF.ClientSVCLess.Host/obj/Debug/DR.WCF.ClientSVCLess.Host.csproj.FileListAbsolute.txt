@@ -4,3 +4,9 @@ c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.ClientSVCLe
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.ClientSVCLess.Host\obj\Debug\DR.WCF.ClientSVCLess.Host.csprojResolveAssemblyReference.cache
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.ClientSVCLess.Host\obj\Debug\DR.WCF.ClientSVCLess.Host.exe
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.ClientSVCLess.Host\obj\Debug\DR.WCF.ClientSVCLess.Host.pdb
+C:\Projects\DRWCF\DR.WCF.ClientSVCLess.Host\bin\Debug\DR.WCF.ClientSVCLess.Host.exe.config
+C:\Projects\DRWCF\DR.WCF.ClientSVCLess.Host\bin\Debug\DR.WCF.ClientSVCLess.Host.exe
+C:\Projects\DRWCF\DR.WCF.ClientSVCLess.Host\bin\Debug\DR.WCF.ClientSVCLess.Host.pdb
+C:\Projects\DRWCF\DR.WCF.ClientSVCLess.Host\obj\Debug\DR.WCF.ClientSVCLess.Host.csprojResolveAssemblyReference.cache
+C:\Projects\DRWCF\DR.WCF.ClientSVCLess.Host\obj\Debug\DR.WCF.ClientSVCLess.Host.exe
+C:\Projects\DRWCF\DR.WCF.ClientSVCLess.Host\obj\Debug\DR.WCF.ClientSVCLess.Host.pdb

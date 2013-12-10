@@ -3,3 +3,9 @@ c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Router\bin\
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Router\bin\Debug\DR.WCF.Router.pdb
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Router\obj\Debug\DR.WCF.Router.dll
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Router\obj\Debug\DR.WCF.Router.pdb
+C:\Projects\DRWCF\DR.WCF.Router\bin\Debug\DR.WCF.Router.dll.config
+C:\Projects\DRWCF\DR.WCF.Router\bin\Debug\DR.WCF.Router.dll
+C:\Projects\DRWCF\DR.WCF.Router\bin\Debug\DR.WCF.Router.pdb
+C:\Projects\DRWCF\DR.WCF.Router\obj\Debug\DR.WCF.Router.csprojResolveAssemblyReference.cache
+C:\Projects\DRWCF\DR.WCF.Router\obj\Debug\DR.WCF.Router.dll
+C:\Projects\DRWCF\DR.WCF.Router\obj\Debug\DR.WCF.Router.pdb
