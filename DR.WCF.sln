@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.WCF.Server", "DRWcf\DR.WCF.Server.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.WCF.Server", "DR.WCF.Server\DR.WCF.Server.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.WCF.Server.Application", "DRWcf.Application\DR.WCF.Server.Application.csproj", "{1853C936-E359-4FEF-B3FE-48C9438F2FBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.WCF.Server.Application", "DR.WCF.Server.Application\DR.WCF.Server.Application.csproj", "{1853C936-E359-4FEF-B3FE-48C9438F2FBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.WCF.Server.Host", "ConsoleHost\DR.WCF.Server.Host.csproj", "{87B45971-CAC4-47CC-9DC0-ED6262052203}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.WCF.Server.Host", "DR.WCF.Server.Host\DR.WCF.Server.Host.csproj", "{87B45971-CAC4-47CC-9DC0-ED6262052203}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.WCF.Client.Proxy", "DR.WCF.Proxy\DR.WCF.Client.Proxy.csproj", "{43E6277D-183D-4900-80D0-4AE82C9E1812}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR.WCF.Client.Proxy", "DR.WCF.Client.Proxy\DR.WCF.Client.Proxy.csproj", "{43E6277D-183D-4900-80D0-4AE82C9E1812}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{F22F906C-949E-4892-B8A2-33324165E863}"
 EndProject

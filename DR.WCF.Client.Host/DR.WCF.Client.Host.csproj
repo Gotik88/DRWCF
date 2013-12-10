@@ -68,7 +68,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DR.WCF.Proxy\DR.WCF.Client.Proxy.csproj">
+    <ProjectReference Include="..\DR.WCF.Client.Proxy\DR.WCF.Client.Proxy.csproj">
       <Project>{43e6277d-183d-4900-80d0-4ae82c9e1812}</Project>
       <Name>DR.WCF.Client.Proxy</Name>
     </ProjectReference>

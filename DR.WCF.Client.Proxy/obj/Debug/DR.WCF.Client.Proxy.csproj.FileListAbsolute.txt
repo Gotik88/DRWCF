@@ -5,3 +5,10 @@ c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Proxy\obj\D
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Proxy\obj\Debug\DR.WCF.Proxy.pdb
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Proxy\bin\Debug\DR.WCF.Server.dll
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DR.WCF.Proxy\bin\Debug\DR.WCF.Server.pdb
+C:\Projects\DRWCF\DR.WCF.Client.Proxy\bin\Debug\DR.WCF.Proxy.dll
+C:\Projects\DRWCF\DR.WCF.Client.Proxy\bin\Debug\DR.WCF.Proxy.pdb
+C:\Projects\DRWCF\DR.WCF.Client.Proxy\bin\Debug\DR.WCF.Server.dll
+C:\Projects\DRWCF\DR.WCF.Client.Proxy\bin\Debug\DR.WCF.Server.pdb
+C:\Projects\DRWCF\DR.WCF.Client.Proxy\obj\Debug\DR.WCF.Client.Proxy.csprojResolveAssemblyReference.cache
+C:\Projects\DRWCF\DR.WCF.Client.Proxy\obj\Debug\DR.WCF.Proxy.dll
+C:\Projects\DRWCF\DR.WCF.Client.Proxy\obj\Debug\DR.WCF.Proxy.pdb

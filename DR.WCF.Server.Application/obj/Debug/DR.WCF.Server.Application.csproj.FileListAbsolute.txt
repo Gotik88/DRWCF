@@ -3,3 +3,8 @@ c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf.Application\
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf.Application\obj\Debug\DR.WCF.Server.Application.csprojResolveAssemblyReference.cache
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf.Application\obj\Debug\DRWcf.Application.dll
 c:\Users\dromanii\documents\visual studio 2012\Projects\DRWcf\DRWcf.Application\obj\Debug\DRWcf.Application.pdb
+C:\Projects\DRWCF\DR.WCF.Server.Application\bin\DRWcf.Application.dll
+C:\Projects\DRWCF\DR.WCF.Server.Application\bin\DRWcf.Application.pdb
+C:\Projects\DRWCF\DR.WCF.Server.Application\obj\Debug\DR.WCF.Server.Application.csprojResolveAssemblyReference.cache
+C:\Projects\DRWCF\DR.WCF.Server.Application\obj\Debug\DRWcf.Application.dll
+C:\Projects\DRWCF\DR.WCF.Server.Application\obj\Debug\DRWcf.Application.pdb

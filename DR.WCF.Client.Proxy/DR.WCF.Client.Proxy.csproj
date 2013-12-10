@@ -44,7 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DRWcf\DR.WCF.Server.csproj">
+    <ProjectReference Include="..\DR.WCF.Server\DR.WCF.Server.csproj">
       <Project>{15b3e0d2-6217-493a-a690-158c497f5318}</Project>
       <Name>DR.WCF.Server</Name>
     </ProjectReference>
